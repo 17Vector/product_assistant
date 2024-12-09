@@ -1,0 +1,2 @@
+String db_url = 'https://semuyukrqswaupmwetjq.supabase.co';
+String db_anonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNlbXV5dWtycXN3YXVwbXdldGpxIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTczMjA4Njc0MywiZXhwIjoyMDQ3NjYyNzQzfQ.Y_1BYFrn6TnXD8MHQ5d5wyJ_S35ssTF3x1C2Pmb5W2g';
